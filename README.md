@@ -5,7 +5,8 @@ I'm [I.D.](https://github.com/I-Dieod) (in real name is Tomo), a web developer i
 I create various things whatever I can imagine, including web applications, extension for code editor.
 I'm always eager to learn new technologies and improve my skills.
 
-My main tech stack is python, typescript, C, C++, Rust.
+#### My main tech stack: 
+[![My tech stack](https://skillicons.dev/icons?i=html,css,typescript,python,c,cpp,rust&perline=4)](https://skillicons.dev)
 
 #### Fun Facts:
 - I enjoy playing video games and exploring new technologies.
