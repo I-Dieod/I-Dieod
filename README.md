@@ -13,6 +13,8 @@ I'm always eager to learn new technologies and improve my skills.
 - I'm a big fan of anime and manga.
 - I love to travel and try new foods.
 
+## Slogan: "Take this world."
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
