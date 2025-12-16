@@ -1,4 +1,6 @@
 
+## "Take this world."
+
 ## 🌟 **About Me**
 ### Hey there! 🚀
 I'm [I.D.](https://github.com/I-Dieod) (in real name is Tomo), a web developer in Japan.
@@ -12,8 +14,6 @@ I'm always eager to learn new technologies and improve my skills.
 - I enjoy playing video games and exploring new technologies.
 - I'm a big fan of anime and manga.
 - I love to travel and try new foods.
-
-## Slogan: "Take this world."
 
 ## 📊 **GitHub Analytics**
 
